@@ -48,8 +48,8 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kynur&theme=blueberry&hide_border=true"/>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=kynur&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false" width="350px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kynur&show_icons=true&locale=en&layout=compact&theme=blueberry&hide_border=true" alt="kynur" width="345px"/></p>
+<img src="https://github-readme-stats.vercel.app/api?username=kynur&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false" height="140px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kynur&show_icons=true&locale=en&layout=compact&theme=blueberry&hide_border=true" alt="kynur" height="140px"/></p>
   
 ##
 </div>
