@@ -1,7 +1,7 @@
 # Hi, I'm Kynur! 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzA1YTA0YTVhNmQ5MjhhNDQ5YTE4NWFmNzJkYmRjMTA5Zjc3ODFiOSZjdD1n/mcPq3IUb5cBRHz1QeX/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzA1YTA0YTVhNmQ5MjhhNDQ5YTE4NWFmNzJkYmRjMTA5Zjc3ODFiOSZjdD1n/mcPq3IUb5cBRHz1QeX/giphy.gif" width="100%"/>
 </div>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kynur&theme=bear&hide_border=false)<br/>
