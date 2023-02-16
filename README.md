@@ -1,4 +1,4 @@
-# Hi, I'm Kynur! 👋
+# Hi, I'm Rizky Nur! 👋
 
 <div id="header" align="center">
   <img src="./assets/header.jpg" width="100%"/>
