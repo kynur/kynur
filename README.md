@@ -10,7 +10,6 @@
 <br>
 
 <h2>🛠️ Languages and Tools</h2>
-#
 <div align="center">
 <h2>Front-End</h2>
   
