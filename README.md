@@ -11,8 +11,10 @@
 
 <h2>🛠️ Languages and Tools</h2>
 <div align="center">
+
+---
   
-<summary><h2 style="display: inline-block;">Front-End</h2></summary>
+<h2>Front-End</h2>
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
