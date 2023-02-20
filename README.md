@@ -34,12 +34,12 @@
 <h2>📚 Project</h2>
 <div align="center">
 
+<a href="https://github.com/kynur/single-price-grid"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=kynur&repo=single-price-grid&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false">
 <a href="https://github.com/kynur/stats-preview-card-component"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=kynur&repo=stats-preview-card-component&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false">
 <a href="https://github.com/kynur/landing-page-with-single-introductory"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=kynur&repo=landing-page-with-single-introductory&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false">
 <a href="https://github.com/kynur/3-column-preview-card-component"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=kynur&repo=3-column-preview-card-component&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false">
 <a href="https://github.com/kynur/product-preview-card-component"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=kynur&repo=product-preview-card-component&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false">
 <a href="https://github.com/kynur/order-summary-component"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=kynur&repo=order-summary-component&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false">
-<a href="https://github.com/kynur/nft-preview-card-component"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=kynur&repo=nft-preview-card-component&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false">
 </div>
 <br>
 <h2>📊 GitHub Stats</h2>
